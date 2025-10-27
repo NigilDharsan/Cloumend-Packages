@@ -49,7 +49,7 @@ class CldButton extends StatelessWidget {
       elevation: elevation,
       backgroundColor: transparent == true
           ? Colors.transparent
-          : (backgroundColor ?? CvsColors.primaryColor),
+          : (backgroundColor ?? CldColors.primaryColor),
       minimumSize: Size(
         width ?? MediaQuery.of(context).size.width,
         height ?? 45,

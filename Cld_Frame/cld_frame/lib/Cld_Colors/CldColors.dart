@@ -1,6 +1,6 @@
 import 'dart:ui';
 
-class CvsColors {
+class CldColors {
   static const Color _defaultPrimaryColor = Color(0xFF6200EE);
 
   static Color? _primaryColor;
